@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:       Praveen Bohra 
+// Engineer:       Rakesh Yarra 
 // 
-// Create Date:    19:08:23 22/02/2024
+// Create Date:    
 // Design Name: 
 // Module Name:    compress_3_2
 // Project Name: 
