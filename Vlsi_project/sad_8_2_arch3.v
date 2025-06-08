@@ -10,7 +10,7 @@
 // Tool versions: 
 // Description:    sun of difference arch using
 //                 compressor_arry_8_2 using 
-//                 three 3_2 and one 4_2
+//                 5_2, 4_2, 3_2
 // Dependencies: 
 // Revision: 
 // Revision 0.01 - File Created
