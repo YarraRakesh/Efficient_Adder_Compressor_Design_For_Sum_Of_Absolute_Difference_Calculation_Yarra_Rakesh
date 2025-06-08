@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Coutmpany: 
-// Engineer:       Praveen Bohra
+// Engineer:       Rakesh Yarra
 // Create Date:    11:22:49 26/02/2024 
 // Design Name: 
 // Module Name:    sad_8_2_arch2 
