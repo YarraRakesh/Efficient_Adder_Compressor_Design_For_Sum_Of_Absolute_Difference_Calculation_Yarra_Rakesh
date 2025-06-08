@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Coutmpany: 
-// Engineer:       Praveen Bohra
-// Create Date:    11:22:49 26/02/2024 
+// Engineer:       Rakesh Yarra
+// Create Date:     
 // Design Name: 
 // Module Name:    compressor_array_82_52_42_32 
 // Project Name: 
