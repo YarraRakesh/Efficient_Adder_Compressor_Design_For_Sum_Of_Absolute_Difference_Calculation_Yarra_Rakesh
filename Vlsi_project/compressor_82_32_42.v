@@ -8,7 +8,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
-// Description:    Compressor_8_2 using three 3_2 n one 4_2
+// Description:    Compressor_8_2 using Four 3_2 and one 4_2
 // Dependencies: 
 // Revision: 
 // Revision 0.01 - File Created
