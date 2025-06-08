@@ -8,7 +8,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
-// Description:    Compressor_arry_8_2 using 4_2
+// Description:    Compressor_arry_8_2 using 5_2, 4_2, 3_2
 // Dependencies: 
 // Revision: 
 // Revision 0.01 - File Created
