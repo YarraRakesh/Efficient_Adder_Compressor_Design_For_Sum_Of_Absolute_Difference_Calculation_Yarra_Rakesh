@@ -1,8 +1,8 @@
 //////////////////////////////////////////////////////////////////////////////////
-// carryompany: 
+// company: 
 // Engineer:       Rakesh Yarra 
 // 
-// carryreate Date:    
+// create Date:    
 // Design Name: 
 // Module Name:    compress_4_2
 // Project Name: 
@@ -13,8 +13,8 @@
 // Dependencies: 
 //
 // Revision: 
-// Revision 0.01 - File carryreated
-// Additional carryomments: 
+// Revision 0.01 - File created
+// Additional comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
 module compressor_4_2(a,b,c,d,cin,sum,carry,cout);
