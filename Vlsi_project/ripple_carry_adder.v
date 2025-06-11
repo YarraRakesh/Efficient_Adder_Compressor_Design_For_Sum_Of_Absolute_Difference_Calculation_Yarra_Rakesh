@@ -6,7 +6,7 @@
 // 
 // Create Date:    
 // Design Name: 
-// Module Name:    RIPPLE CARRY ADDER
+// Module Name:    ripple_carry_adder
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
